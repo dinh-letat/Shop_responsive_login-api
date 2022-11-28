@@ -1,0 +1,9 @@
+/*------------- component ----------------*/
+@import './assets/scss/components/HeaderHome';
+/*------------- pages ----------------*/
+@import './assets/scss/pages/home'; //(Trong home,component, template.scss nếu có sử dụng biến và mixin thì import vào file đó)
+@import './assets/scss/pages/detail';
+/*------------- templates ----------------*/
+@import './assets/scss/templates/HomeTemplate';
+
+
